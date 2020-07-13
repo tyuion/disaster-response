@@ -8,6 +8,12 @@ The project includes three sections:
 2. A machine learning pipeline to train data.
 3. A web app to classify messages.
 
+### Web app screenshot
+![web app screenshot](screenshots.png)
+
+### Github repository:
+https://github.com/tyuion/disaster-response
+
 ### Installation
 This project requires python 3.X and the following libraries:
 Numpy, Pandas, Matplotlib, Sciki_learn, NLTK, SQLalchemy, Pickle, Flask, Plotly, Sys, Re
