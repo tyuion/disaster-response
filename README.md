@@ -9,7 +9,7 @@ The project includes three sections:
 3. A web app to classify messages.
 
 ### Web app screenshot
-![web app screenshot](screenshots.png)
+![web app screenshot](web_app_screenshot.png)
 
 ### Github repository:
 https://github.com/tyuion/disaster-response
