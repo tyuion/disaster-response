@@ -56,7 +56,7 @@ def tokenize(text):
         clean_tokens -> list of clean tokens
     """
     # normalize text
-    text = text.lower()
+    text = re.sub(r"[^a-zA-Z0-9]", " ", text.lower())
     stop_words = stopwords.words("english")
     
     # tokenize
